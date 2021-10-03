@@ -2,9 +2,13 @@
 It's my map generator from images to Timberborn map.
 
 Ground level scale (16 R, 16 G, 16 B) - 1 lvl;
+
 Water level scale (8 Alpha) - 0.5 lvl;
+
 Irrigation level scale (8 Alpha) - 0.5 lvl;
+
 Buildings:
+
 	StartingLocation: #99E550;
 	BlueberryBush: #76428A
 	Pine: #323C39
